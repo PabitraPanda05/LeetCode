@@ -21,9 +21,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pabitra200369-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/pabitra200369-blip/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pabitra200369-blip/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pabitra200369-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pabitra200369-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pabitra200369-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pabitra200369-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
