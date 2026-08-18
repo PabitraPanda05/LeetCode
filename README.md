@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pabitra200369-blip/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pabitra200369-blip/LeetCode/tree/master/0013-roman-to-integer) |
+| [0223-rectangle-area](https://github.com/pabitra200369-blip/LeetCode/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pabitra200369-blip/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/pabitra200369-blip/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
